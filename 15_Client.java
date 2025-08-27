@@ -39,3 +39,9 @@ public class Client {
         }
     }
 }
+
+Connected to Server!
+Client: hello
+Server: hi
+Client: bie
+Server disconnected.
