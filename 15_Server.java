@@ -45,3 +45,12 @@ public class Server {
 
 //Run as normal java application both client and server
 //you can switch console using Display selected console ,a computer icon on right
+//output server.java
+Server started. Waiting for client...
+Client connected!
+Client: hello
+Server: hi
+Client: bie
+Server: exit
+Server closed connection.
+
